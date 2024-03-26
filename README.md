@@ -10,15 +10,15 @@ Edit `runner.cpp` and replace `<server_domain>` with the server URL, where the `
 ### Step 2:
 You can either compile `installer.cpp` using `g++` or the JinuxML is a camouflage. Edit `main.cpp` (if JinuxML) or `installer.cpp` and replace `<SCRIPT_URL>` with the URL you copied in step 1.
 
-##Info:
+## Info:
 
-###How to compile:
+### How to compile:
 `mkdir build`
 `cd build` 
 `cmake ..`
 `make`
 
-###Execute:
+### Execute:
 
 `./main`
 
